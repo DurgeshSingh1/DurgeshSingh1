@@ -1,5 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILHH2WqO55WeiwXNjKEzgQ0PBw2y7WCHaHEJIkmixzA&s" width="600" height="300">
-<img src="https://almablog-media.s3.ap-south-1.amazonaws.com/MERN_Stack_9437df2ba9_62af1dd3fc.png" width="100%" height="300">
+<img src="https://almablog-media.s3.ap-south-1.amazonaws.com/MERN_Stack_9437df2ba9_62af1dd3fc.png" width="100%" height="500">
 
 <h1 align="center">Hi 👋, I'm Durgesh Tribhuvan Singh</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
