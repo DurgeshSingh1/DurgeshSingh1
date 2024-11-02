@@ -8,13 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgeshsingh1" alt="durgeshsingh1" /></a> </p>
 
-- 🔭 I’m currently working on [ABC](abc.com)
-
 - 🌱 I’m currently learning **Angular, Vuejs**
-
-- 👯 I’m looking to collaborate on [DEF](def.com)
-
-- 🤝 I’m looking for help with [GHI](ghi.com)
 
 - 👨‍💻 All of my projects are available at [durgesh.com](durgesh.com)
 
@@ -25,8 +19,6 @@
 - 📫 How to reach me **durgeshsingh18101999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/18O30pFVCP75q5OEbnnsNOk27drn8blSh?usp=drive_link](https://drive.google.com/drive/folders/18O30pFVCP75q5OEbnnsNOk27drn8blSh?usp=drive_link)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
