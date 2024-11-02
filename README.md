@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILHH2WqO55WeiwXNjKEzgQ0PBw2y7WCHaHEJIkmixzA&s" width="100%" height="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILHH2WqO55WeiwXNjKEzgQ0PBw2y7WCHaHEJIkmixzA&s" width="300" height="300">
 <h1 align="center">Hi 👋, I'm Durgesh Tribhuvan Singh</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <!-- <img align="center" alt="Coding" width="100%" height="500" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> -->
