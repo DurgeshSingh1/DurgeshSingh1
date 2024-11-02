@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [durgesh.com](durgesh.com)
 
-- 📝 I regularly write articles on [medium-durgesh.com](medium-durgesh.com)
-
 - 💬 Ask me about **Node.js, Reactjs, Expressjs, MongoDB, Javascript**
 
 - 📫 How to reach me **durgeshsingh18101999@gmail.com**
