@@ -34,7 +34,7 @@
 <a href="https://www.hackerrank.com/durgeshsingh1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/durgeshsingh1811" height="30" width="40" /></a>
 <a href="https://leetcode.com/durgeshsingh18101999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/durgeshsingh18101999/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@durgeshsingh18101999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@durgeshsingh18101999" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/durgeshsingh18101999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/durgeshsingh18101999" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/durgeshsingh1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/durgeshsingh18101999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
