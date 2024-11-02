@@ -1,5 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILHH2WqO55WeiwXNjKEzgQ0PBw2y7WCHaHEJIkmixzA&s" width="300" height="300">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarkovate.com%2Fblog%2Fmern-stack-development%2F&psig=AOvVaw1pr-gJ-tc5dA37D023hD7e&ust=1730657636423000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDJ36CgvokDFQAAAAAdAAAAABAE" width="300" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/www.google.com/url?sa=i&url=https%3A%2F%2Fmarkovate.com%2Fblog%2Fmern-stack-development%2F&psig=AOvVaw1pr-gJ-tc5dA37D023hD7e&ust=1730657636423000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDJ36CgvokDFQAAAAAdAAAAABAE" width="300" height="300">
 
 <h1 align="center">Hi 👋, I'm Durgesh Tribhuvan Singh</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
